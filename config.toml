@@ -2,6 +2,7 @@ baseURL = 'http://mercredimidi.ch/'
 languageCode = 'en-us'
 title = 'Mercredi Midi'
 theme = "hyde"
+publishDir = "docs"
 
 [params]
 description = 'Les recettes de mamy !'
